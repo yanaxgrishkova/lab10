@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 11)
 include(cmake/HunterGate.cmake)
 
 HunterGate(
-    URL "https://github.com/yanaxgrishkova/hunter/archive/v0.19.137.2.tar.gz"
+    URL "https://github.com/yanaxgrishkova/hunter/archive/v0.19.119.2.tar.gz"
     SHA1 "655c03ece0264677c3c90f823087c99af10a2d26"
 )
 
